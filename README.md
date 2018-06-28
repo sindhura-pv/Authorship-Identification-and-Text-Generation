@@ -1,4 +1,4 @@
-# Authorship estimation and Text generation
+# Authorship identification and Text generation
 Objective
 
 To build Unigram, Bigram and Trigram language models to predict the probability that a given piece of test text belongs 
